@@ -34,12 +34,17 @@ Open terminal cd Frontend
 #step 4
 npm install
 
-## 3. steps
+## 3 Setup Mongodb
 
+open .env file in Backend change the MONGO_URI 
+
+## 4. steps
 
 #step 1 (Backend Terimnal)
 npm start
 
 #step 2 (Frontend Terminal)
 npm run dev
+
+
 
